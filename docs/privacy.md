@@ -1,17 +1,17 @@
-# Privacy Policy for BabyLogger
+# Privacy Policy for YoyoBaby
 
 **Last Updated:** November 25, 2025
 
 ## Introduction
 
-BabyLogger ("we," "our," or "us") is committed to protecting the privacy of our users and their children. This Privacy Policy explains how we collect, use, store, and protect information when you use the BabyLogger mobile application (the "App").
+YoyoBaby ("we," "our," or "us") is committed to protecting the privacy of our users and their children. This Privacy Policy explains how we collect, use, store, and protect information when you use the YoyoBaby mobile application (the "App").
 
-**IMPORTANT:** BabyLogger is designed for parents and caregivers to track their baby's activities. We recognize that this involves collecting information about children under 13 years of age and are committed to compliance with the Children's Online Privacy Protection Act (COPPA).
+**IMPORTANT:** YoyoBaby is designed for parents and caregivers to track their baby's activities. We recognize that this involves collecting information about children under 13 years of age and are committed to compliance with the Children's Online Privacy Protection Act (COPPA).
 
 ## Information We Collect
 
 ### Baby Activity Data
-When you use BabyLogger, you provide information about your baby's daily activities, including:
+When you use YoyoBaby, you provide information about your baby's daily activities, including:
 
 - **Sleep Information:** Sleep start/end times, duration, quality ratings, and notes
 - **Feeding Information:** Feeding times, types (breast/formula), amounts, duration, and notes
@@ -70,10 +70,10 @@ We use the information you provide solely for the following purposes:
 
 ## COPPA Compliance
 
-BabyLogger is designed for use by parents and caregivers (adults 18+) to track information about their babies and young children. We recognize that this involves collecting information about children under 13 years of age.
+YoyoBaby is designed for use by parents and caregivers (adults 18+) to track information about their babies and young children. We recognize that this involves collecting information about children under 13 years of age.
 
 ### Parental Control
-- Only parents/caregivers should use BabyLogger
+- Only parents/caregivers should use YoyoBaby
 - Parents have complete control over their baby's data
 - Parents can view, edit, and delete all data at any time
 - No child-directed features or communication capabilities exist in the app
@@ -108,12 +108,12 @@ You have the following rights regarding your data:
 - When available, you will be able to export all data in standard formats (CSV, JSON)
 
 ### Opt-Out of iCloud Sync
-- You can disable iCloud sync in iOS Settings → [Your Name] → iCloud → BabyLogger
+- You can disable iCloud sync in iOS Settings → [Your Name] → iCloud → YoyoBaby
 - Disabling iCloud sync removes data from iCloud but keeps local data on your device
 
 ## Third-Party Services
 
-BabyLogger uses the following Apple services:
+YoyoBaby uses the following Apple services:
 
 ### Apple CloudKit (Optional)
 - Used for syncing data across your devices
@@ -123,7 +123,7 @@ BabyLogger uses the following Apple services:
 
 ## Children's Privacy
 
-BabyLogger is NOT intended for use by children. The app is designed exclusively for parents and caregivers aged 18 and older. We do not knowingly collect personal information directly from children under 13.
+YoyoBaby is NOT intended for use by children. The app is designed exclusively for parents and caregivers aged 18 and older. We do not knowingly collect personal information directly from children under 13.
 
 If you believe we have inadvertently collected information from a child under 13 without proper parental consent, please contact us immediately, and we will take steps to delete such information.
 
@@ -138,7 +138,7 @@ In the unlikely event of a data breach affecting your information, we will:
 
 ## International Users
 
-BabyLogger is currently designed for users in the United States. If you use BabyLogger from outside the United States:
+YoyoBaby is currently designed for users in the United States. If you use YoyoBaby from outside the United States:
 
 - Your data is stored on your local device and in your personal iCloud account (Apple's data centers)
 - Apple's CloudKit data location depends on your Apple ID country/region
@@ -172,7 +172,7 @@ If you have questions, concerns, or requests regarding this Privacy Policy or yo
 
 ## Consent
 
-By using BabyLogger, you consent to this Privacy Policy and confirm that:
+By using YoyoBaby, you consent to this Privacy Policy and confirm that:
 
 - You are 18 years of age or older
 - You are the parent/legal guardian of any child whose information you enter in the app
@@ -180,4 +180,4 @@ By using BabyLogger, you consent to this Privacy Policy and confirm that:
 
 ---
 
-**Summary:** BabyLogger is a privacy-first baby tracking app. Your baby's data stays on your device and in your personal iCloud account. We don't collect, sell, or share your data with anyone. You have complete control over your information at all times.
+**Summary:** YoyoBaby is a privacy-first baby tracking app. Your baby's data stays on your device and in your personal iCloud account. We don't collect, sell, or share your data with anyone. You have complete control over your information at all times.
