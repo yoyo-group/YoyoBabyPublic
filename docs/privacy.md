@@ -166,7 +166,7 @@ If you are in the European Economic Area (EEA), you have additional rights under
 
 If you have questions, concerns, or requests regarding this Privacy Policy or your data:
 
-**Email:** ma.hu.collection.llc@gmail.com
+**Email:** support@yoyo-baby.com
 
 **Response Time:** We will respond to privacy inquiries within 30 days
 
